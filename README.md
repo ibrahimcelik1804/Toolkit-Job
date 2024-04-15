@@ -16,4 +16,4 @@
 -uuid (Verilerin id)
 -react-icons (icon kütüphanesi)
 
-<img src="gorsel.gif"/>
+<img src="./public/gorsel.gif"/>
